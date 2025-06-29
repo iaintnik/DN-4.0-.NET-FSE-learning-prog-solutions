@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Design Patterns and Principles\\Exercise_1_Singleton Pattern\\code\\code.csproj": {}
+    "C:\\Users\\KIIT\\Desktop\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Design Patterns and Principles\\Exercise_1_Singleton Pattern\\code\\code.csproj": {}
   },
   "projects": {
-    "E:\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Design Patterns and Principles\\Exercise_1_Singleton Pattern\\code\\code.csproj": {
+    "C:\\Users\\KIIT\\Desktop\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Design Patterns and Principles\\Exercise_1_Singleton Pattern\\code\\code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Design Patterns and Principles\\Exercise_1_Singleton Pattern\\code\\code.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Design Patterns and Principles\\Exercise_1_Singleton Pattern\\code\\code.csproj",
         "projectName": "code",
-        "projectPath": "E:\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Design Patterns and Principles\\Exercise_1_Singleton Pattern\\code\\code.csproj",
+        "projectPath": "C:\\Users\\KIIT\\Desktop\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Design Patterns and Principles\\Exercise_1_Singleton Pattern\\code\\code.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "E:\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Design Patterns and Principles\\Exercise_1_Singleton Pattern\\code\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\Desktop\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Design Patterns and Principles\\Exercise_1_Singleton Pattern\\code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Data Structures and Algorithms\\Exercise_2_Ecom Platform Search Function\\code\\code.csproj",
+      "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Data Structures and Algorithms\\Exercise_2_Ecom Platform Search Function\\code\\code.csproj",
       "projectName": "code",
-      "projectPath": "E:\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Data Structures and Algorithms\\Exercise_2_Ecom Platform Search Function\\code\\code.csproj",
+      "projectPath": "C:\\Users\\KIIT\\Desktop\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Data Structures and Algorithms\\Exercise_2_Ecom Platform Search Function\\code\\code.csproj",
       "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-      "outputPath": "E:\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Data Structures and Algorithms\\Exercise_2_Ecom Platform Search Function\\code\\obj\\",
+      "outputPath": "C:\\Users\\KIIT\\Desktop\\DN-4.0-.NET-FSE-learning-prog-solutions\\Week_1_Data Structures and Algorithms\\Exercise_2_Ecom Platform Search Function\\code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
